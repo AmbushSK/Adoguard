@@ -18,7 +18,8 @@ Workspaces: Support for multiple isolated profiles to categorize your credential
 [3] Versions: Current build v0.0.3.6 featuring unified launcher logic.
 
 
-
 <img width="303" height="328" alt="image" src="https://github.com/user-attachments/assets/1267ccfe-b102-4e87-9d53-8900f20aa018" />
+
 <img width="551" height="491" alt="image" src="https://github.com/user-attachments/assets/1a02c2ec-2bad-402b-b4d9-cfc8017e8692" />
+
 <img width="322" height="382" alt="image" src="https://github.com/user-attachments/assets/e8811592-8fd6-49ee-b0df-9c05f58e1a08" />
